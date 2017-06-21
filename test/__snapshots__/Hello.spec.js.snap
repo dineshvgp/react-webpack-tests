@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a label 1`] = `
+<Hello>
+  <div>
+    <LoadableComponent>
+      <loading
+        error={null}
+        isLoading={true}
+        pastDelay={false}
+        timedOut={false}
+      />
+    </LoadableComponent>
+    <h1>
+      Hello from React 
+    </h1>
+  </div>
+</Hello>
+`;
